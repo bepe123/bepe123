@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @bepe123
+- 👀 I’m interested in making games
+- 🌱 I’m currently learning gd script (aka python but for godot)
+- 📫 you can to reach to me by my discord its bepe123
+- 😄 Pronouns: he-him
